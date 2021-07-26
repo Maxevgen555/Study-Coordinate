@@ -1,0 +1,9 @@
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\bin\Debug\netcoreapp3.1\CoordinateConversion.deps.json
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\bin\Debug\netcoreapp3.1\CoordinateConversion.dll
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\bin\Debug\netcoreapp3.1\CoordinateConversion.pdb
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\obj\Debug\netcoreapp3.1\CoordinateConversion.csproj.AssemblyReference.cache
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\obj\Debug\netcoreapp3.1\CoordinateConversion.AssemblyInfoInputs.cache
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\obj\Debug\netcoreapp3.1\CoordinateConversion.AssemblyInfo.cs
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\obj\Debug\netcoreapp3.1\CoordinateConversion.csproj.CoreCompileInputs.cache
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\obj\Debug\netcoreapp3.1\CoordinateConversion.dll
+C:\Users\Pipelacz\source\repos\CoordinateConversion\CoordinateConversion\obj\Debug\netcoreapp3.1\CoordinateConversion.pdb
